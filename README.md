@@ -7,11 +7,7 @@
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/)
 [![Personal Website](https://img.shields.io/badge/Personal&nbsp;Website-732C2C?style=for-the-badge&logo=About.me&logoColor=white)](https://Tommy.io/)
 
-- 🔭 I’m currently learning everything 🚀
-- 🌱 I’m learning about product management and AR VR! 
-- 👯 I’m looking to collaborate with other developers
-- 🥅 2022 Goals: Learn more about web3
-- ⚡ Fun fact: I love to animate and play piano/music production
+
 
 📫: Tomyxc@outlook.com
 
