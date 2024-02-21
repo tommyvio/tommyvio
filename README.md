@@ -3,7 +3,7 @@
 <p><em> <img width="15px"  /></br>
 </em></p> 
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Tommyio/) 
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ 
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/)
 [![Personal Website](https://img.shields.io/badge/Personal&nbsp;Website-732C2C?style=for-the-badge&logo=About.me&logoColor=white)](https://Tommy.io/)
 
